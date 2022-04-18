@@ -7,3 +7,10 @@ const app = {
       fetchWeather: (ev) => {
         
       }
+      let lat =
+      let ion =
+      let key =
+      let lang =
+      let units =
+      let url =
+      
